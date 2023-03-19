@@ -31,6 +31,7 @@ keys = {
     133: {"name": "Disable Camera"},  # 0x85
     134: {"name": "My Asus"},  # 0x86
     107: {"name": "Disable Touchpad"},  # 0x6b  # handled by OS
+    207: {"name": "A/C Connected"},
 }
 
 
